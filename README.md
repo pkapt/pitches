@@ -2,6 +2,14 @@
 
 convert between scientific pitch notation (SPN) and frequency
 
+## installation
+
+this module is hosted on PyPi, so it can be installed with `pip install pitches`
+
+## requirements
+
+Should work with Python 2.7, or any Python 3
+
 ## Example
 
 ```
